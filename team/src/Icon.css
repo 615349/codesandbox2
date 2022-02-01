@@ -1,0 +1,10 @@
+.icon {
+  width: 15px;
+  text-align: center;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.flip {
+  transform: rotate(180deg);
+}
