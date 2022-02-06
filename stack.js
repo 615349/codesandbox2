@@ -8,6 +8,10 @@ class Stack {
   pop = () => {
     this.array.pop();
   }
+
+  clear = () => {
+    array.length = 0;
+  }
 }
 
 const stack = new Stack();
